@@ -1,0 +1,61 @@
+---
+layout: default
+---
+
+<div class='container'>
+    <header class="masthead text-center">
+
+      <img class='img-responsive center-block' src="/images/mintlab.png" width="100%" height="100%" />
+
+      <p>
+      <i>Welcome to the Machine Intelligence and Neural Technologies (MINT) Lab at Vanderbilt University.</i>
+
+      <i> Our overarching focus is on mathematical machine learning and (geometric) deep learning.</i>
+
+
+        <span style="display: block; margin-bottom: 3em"></span>
+
+      <a href="https://github.com/mint-vu"><i class="fa fa-github"></i> MINT-Lab</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://twitter.com/skolouri"><i class="fa fa-twitter"></i> MINT-Lab</a>&nbsp;&nbsp;&nbsp;
+      <a href="mailto:soheil.kolouri@vanderbilt.edu"><i class="fa fa-envelope-o"></i> soheil.kolouri@vanderbilt.edu</a>
+      </p>
+
+      <div class="w3-container" style="   background: #fdf4ec; padding: 25px; border-radius:10px; border: 1px solid #FFFFFF">
+        <div style="text-align:left">
+          <h3> Recent News </h3>
+          <u>Happenings of the last two months. Updated 06/23/2021</u>
+          <span style="display: block; margin-bottom: 1em"></span>
+          <div class="news">
+              {% capture now %}{{'now' | date: '%s' | minus: 5184000 %}}{% endcapture %}
+              <ul style="list-style-position:outside;padding:20px" >
+                {% for new in site.data.news %}
+                  {% capture date %}{{new.date | date: '%s' | plus: 0 %}}{% endcapture %}
+                  {% if date > now %}
+                    <li>
+                      <span>
+                        {{ new.details }}
+                      </span>
+                    </li>
+                  {% endif %}
+                {% endfor %}
+              </ul>
+          </div>
+        </div >
+      </div>
+
+
+
+      <span style="display: block; margin-bottom: 3em"></span>
+
+<!--
+      <a class="twitter-timeline" href="https://twitter.com/KordingLab" data-widget-id="695051708246941697">Tweets by @KordingLab</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> -->
+
+      <span style="display: block; margin-bottom: 3em"></span>
+      Featheringill-Jacobs Hall, 400 24th Ave S Rm 254, Nashville, TN 37212
+      <span style="display: block; margin-bottom: .1em"></span>
+      Website adopted from <a href="https://github.com/KordingLab/KordingLab.github.io/">KordingLab</a>
+      <span style="display: block; margin-bottom: 3em"></span>
+
+    </header>
+</div>
