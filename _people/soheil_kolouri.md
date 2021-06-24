@@ -12,8 +12,9 @@ _Assistant Professor of Computer Science, Vanderbilt University_<br>
 <i class="fa fa-envelope-o"></i> `soheil.kolouri@vanderbilt.edu`
 
 **Office**<br>
-Office: Featheringill-Jacobs Hall
-Mail: 400 24th Ave S Rm 254, Nashville, TN 37212<br>
+Featheringill-Jacobs Hall<br>
+**Mail**<br>
+400 24th Ave S Rm 254, Nashville, TN 37212<br>
 
 
 [Soheil Kolouri](http://skolouri.github.io/) runs his lab at Vanderbilt University of Nashville.
