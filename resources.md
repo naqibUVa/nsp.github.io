@@ -4,7 +4,7 @@ permalink: /resources/
 ---
 ### Openings
 
-We are recruiting motivated PhD students with strong mathematical background to work with us on topics aligned with our labs ['research directions'](/about/). Master's and undergraduate students within Vanderbilt University and visiting scholars are always welcome. 
+We are recruiting motivated PhD students with strong mathematical background to work with us on topics aligned with our lab's ['research directions'](/about/). Master's and undergraduate students within Vanderbilt University and visiting scholars are always welcome. 
 
 #### Applications:
 If you are interested in being part of the MINT Lab, please contact Soheil at: soheil (dot) kolouri (at) vanderbilt (dot) edu. Below are some general suggestions when contacting via email:
