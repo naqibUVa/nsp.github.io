@@ -12,7 +12,7 @@ We are the Machine Intelligence and Neural Technologies (MINT) Lab at [Vanderbil
 
 Our research is motivated by the ever-increasing demand for automated understanding of data and predictive/generative modeling in real-world problems with a focus on biomedical application. We generally focus on developing practical Machine Learning (ML) and Computer Vision (CV) solutions for challenging problems.  Our current and past research towards NextGen-ML fall under the following broad research directions:
 
-- Label efficient learning
+- Label Efficient Learning
   - zero/few-shot transfer learning, domain adaptation, and self-supervised learning
 - Explainable ML
   - invertible models, explainable graph/convolutional neural networks
