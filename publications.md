@@ -13,7 +13,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 _Pooling by Sliced-Wasserstein Embeddings_<br>
 Naderializadeh, N., Comer, J.F., Andrews, R.W., Hoffmann, H., and Kolouri, S.<br>
-Accepted to NeurIPS, 2021. <br>
+NeurIPS, 2021. ([Article](https://neurips.cc/Conferences/2021/ScheduleMultitrack?event=25946)) <br>
 
 _Lifelong Learning with Sketched Structural Regularization_<br>
 Li, H., Krishnan, A., Wu, J., Kolouri, S., Pilly, P.K. and Braverman, V.<br>
