@@ -11,9 +11,13 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 ### 2021
 
+_Pooling by Sliced-Wasserstein Embeddings_<br>
+Naderializadeh, N., Comer, J.F., Andrews, R.W., Hoffmann, H., and Kolouri, S.<br>
+Accepted to NeurIPS, 2021. <br>
+
 _Lifelong Learning with Sketched Structural Regularization_<br>
 Li, H., Krishnan, A., Wu, J., Kolouri, S., Pilly, P.K. and Braverman, V.<br>
-Preprint. ([Article](https://arxiv.org/pdf/2104.08604.pdf))<br>
+ACML 2021. ([Article](https://arxiv.org/pdf/2104.08604.pdf))<br>
 
 _Set Representation Learning with Generalized Sliced-Wasserstein Embeddings_<br>
 Naderializadeh, N., Kolouri, S., Comer, J.F., Andrews, R.W. and Hoffmann, H.<br>
@@ -27,6 +31,10 @@ _Wasserstein Embedding for Graph Learning_<br>
 Kolouri, S., Naderializadeh, N., Rohde, G.K. and Hoffmann, H.<br>
 ICLR 2021. ([Article+Video](https://iclr.cc/virtual/2021/poster/3182))([Project](https://skolouri.github.io/wegl/))([Code](https://github.com/navid-naderi/WEGL))
 
+_System and method for direct learning from raw tomographic data_<br>
+Kolouri, S.<br>
+US Patent 11,037,030. ([Patent](https://patents.google.com/patent/US11037030B1/en))<br>
+
 _Machine-vision method to classify input data based on object components_<br>
 Kolouri, S., Martin, C.E. and Hoffmann, H.<br>
 U.S. Patent 11,023,789. ([Patent](https://patents.google.com/patent/US11023789B2/en))<br>
@@ -34,7 +42,6 @@ U.S. Patent 11,023,789. ([Patent](https://patents.google.com/patent/US11023789B2
 _Attribute aware zero shot machine vision system via joint sparse representations_<br>
 Kolouri, S., Rostami, M., Kim, K. and Owechko, Y.<br>
 U.S. Patent 10,908,616. ([Patent](https://patents.google.com/patent/US10908616B2/en))<br>
-
 
 ### 2020
 _Universal Litmus Patterns: Revealing backdoor attacks in CNNs_<br>
