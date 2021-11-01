@@ -29,7 +29,7 @@ Journal of Mathematical Imaging and Vision 63, no. 9 (2021): 1185-1203. ([Articl
 
 _Deep Reinforcement Learning With Modulated Hebbian Plus Q-Network Architecture_<br>
 Ladosz, Pawel, Eseoghene Ben-Iwhiwhu, Jeffery Dick, Nicholas Ketz, Soheil Kolouri, Jeffrey L. Krichmar, Praveen K. Pilly, and Andrea Soltoggio.<br>
-IEEE Transactions on Neural Networks and Learning Systems (2021). ([Article]](https://ieeexplore.ieee.org/abstract/document/9547670/))
+IEEE Transactions on Neural Networks and Learning Systems (2021). ([Article](https://ieeexplore.ieee.org/abstract/document/9547670/))
 
 
 _Wasserstein Embedding for Graph Learning_<br>
