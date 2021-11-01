@@ -25,7 +25,12 @@ Preprint. ([Article](https://arxiv.org/pdf/2103.03892.pdf))<br>
 
 _Radon cumulative distribution transform subspace modeling for image classification_<br>
 Shifat-E-Rabbi, M., Yin, X., Rubaiyat, A.H.M., Li, S., Kolouri, S., Aldroubi, A., Nichols, J.M. and Rohde, G.K.<br>
-Preprint.([Article](https://arxiv.org/pdf/2004.03669.pdf))
+Journal of Mathematical Imaging and Vision 63, no. 9 (2021): 1185-1203. ([Article](https://link.springer.com/article/10.1007/s10851-021-01052-0))
+
+_Deep Reinforcement Learning With Modulated Hebbian Plus Q-Network Architecture_<br>
+Ladosz, Pawel, Eseoghene Ben-Iwhiwhu, Jeffery Dick, Nicholas Ketz, Soheil Kolouri, Jeffrey L. Krichmar, Praveen K. Pilly, and Andrea Soltoggio.<br>
+IEEE Transactions on Neural Networks and Learning Systems (2021). ([Article]](https://ieeexplore.ieee.org/abstract/document/9547670/))
+
 
 _Wasserstein Embedding for Graph Learning_<br>
 Kolouri, S., Naderializadeh, N., Rohde, G.K. and Hoffmann, H.<br>
