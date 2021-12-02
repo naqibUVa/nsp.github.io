@@ -2,7 +2,7 @@
 name: Ali Abbasi
 position: gradstudent
 avatar: AliAbbasi.jpg
-twitter: ali_abbssii
+twitter: @ali_abbssii
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
