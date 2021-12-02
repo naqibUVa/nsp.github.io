@@ -1,9 +1,9 @@
 ---
-title: blog
-permalink: /blog/
+title: projects
+permalink: /projects/
 ---
 
-### **Blog posts from the lab**
+### **Current Projects**
 
 <div class="content list">
   {% for post in site.posts %}
