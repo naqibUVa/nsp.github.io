@@ -11,6 +11,10 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 ### 2021
 
+_SLOSH: Set LOcality Sensitive Hashing via Sliced-Wasserstein Embeddings_<br>
+Lu, Y., Liu, X., Soltoggio, A., Kolouri, S.<br>
+Preprint. ([Article](https://arxiv.org/pdf/2112.05872.pdf)) <br>
+
 _Pooling by Sliced-Wasserstein Embeddings_<br>
 Naderializadeh, N., Comer, J.F., Andrews, R.W., Hoffmann, H., and Kolouri, S.<br>
 NeurIPS, 2021. ([Article](https://neurips.cc/Conferences/2021/ScheduleMultitrack?event=25946)) <br>
