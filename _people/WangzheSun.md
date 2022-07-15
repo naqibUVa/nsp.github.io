@@ -1,6 +1,6 @@
 ---
 name: Wangzhe Sun
-position: undergrad
+position: alumni
 avatar: WangzheSun.jpg
 twitter: MintLab
 ---

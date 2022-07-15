@@ -1,13 +1,14 @@
 ---
 name: Bryan Lu
-position: undergrad
+title: Bryan Lu - Master of Science Student in the Computer Science Department at CMU
+position: alumni
 avatar: bryan-lu.jpg
-twitter: MintLab
+twitter: 
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-_Undergraduate Student_<br>
+_Bryan is now an M.Sc. student at CMU._<br>
 
 <i class="fa fa-envelope-o"></i> `yuzhe.lu@vanderbilt.edu`
 

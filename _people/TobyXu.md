@@ -1,6 +1,6 @@
 ---
 name: Toby Zhu
-position: undergrad
+position: alumni
 avatar: TobyZhu.jpg
 twitter: MintLab
 ---

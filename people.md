@@ -60,7 +60,7 @@ permalink: /people/
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
-| | | |
+| [Yuzhe (Bryan) Lu](https://www.linkedin.com/in/bryan-lu-419623180/) | Undergrad (Fall 2021-Summer 2022) | Master of Science Student in the Computer Science Department at CMU|
 
 {% endif %}
 {% endfor %}
