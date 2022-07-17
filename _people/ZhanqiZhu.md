@@ -1,7 +1,7 @@
 ---
 name: Zhanqi Zhu
 position: undergrad
-avatar: ZhanqiZhu.jpg
+avatar: ZhanqiZhu.jpeg
 twitter: MintLab
 ---
 
