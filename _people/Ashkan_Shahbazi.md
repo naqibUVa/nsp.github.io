@@ -13,4 +13,4 @@ _Graduate Student_<br>
 
 [Ashkan Shahbazi](https://ashkan13776.github.io/) is a computer science Ph.D. student at Vanderbilt University, doing research in Machine Intelligence and Neural Technologies (MINT) Lab under the supervision of Dr. Soheil Kolouri. Prior to joining Vanderbilt, he obtained his B.Sc. in biomedical engineering from the [Amirkabir University of Technology](https://aut.ac.ir/en), Tehran, Iran in 2021. Ashkan is highly interested in Geometric deep learning and Computational optimal transport.
 
-**Did you know?:** Ashkan, now retired, was a skilled professional Dota2 player who achieved an impressive Immortal 937 ranking and earned the distinguished title of a Rising Star within the system.
+**Did you know?** Ashkan, now retired, was a skilled professional Dota2 player who achieved an impressive Immortal 937 ranking and earned the distinguished title of a Rising Star within the system.
