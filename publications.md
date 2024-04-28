@@ -3,13 +3,93 @@ title: Publication
 permalink: /publication/
 ---
 
-For those interested in numbers, see Soheil's [google scholar citations profile](https://scholar.google.com/citations?user=yREBSy0AAAAJ&hl=en).
+For those interested in numbers, see [google scholar citations profile](https://scholar.google.com/citations?user=yREBSy0AAAAJ&hl=en).
 
 We try to include links for all of our papers. Some of the links open PDFs, others direct you to a journal's site where that particular publication is available for download. If you cannot access one of our papers, let us know. The copyright notice for these papers is listed at the bottom of the page.
 
 <hr>
 
-### 2021
+# Selected Publications
+
+## 2024
+
+<!---_Stereographic Spherical Sliced Wasserstein Distances_<br> --->
+<!--- Tran, H., Bai, Y., Kothapalli, A., Shahbazi, A., Liu, X., Martin, R.D. and Kolouri, S.<br> --->
+<!--- ICML, 2024. ([Article](https://openreview.net/pdf?id=vLtVGtEz5h))--->
+
+_Statistical Context Detection for Deep Lifelong Reinforcement Learning_<br>
+Dick, J., Nath, S., Peridis, C., Ben-Iwhiwhu, E., Kolouri, S., Soltoggio, A.<br>
+CoLLAs, 2024. ([Article](https://openreview.net/pdf?id=1XA7nvmxNb))
+
+_A collective AI via lifelong learning and sharing at the edge_<br>
+Soltoggio, A., Ben-Iwhiwhu, E., Braverman, V., Eaton, E., Epstein, B., Ge, Y., ... & Kolouri, S.<br>
+Nature Machine Intelligence, 6(3), 251-264. ([Article](https://www.nature.com/articles/s42256-024-00800-2))<br>
+
+_BrainWash: A Poisoning Attack to Forget in Continual Learning_<br>
+Abbasi, A., Nooralinejad, P., Pirsiavash, H. and Kolouri, S. <br>
+CVPR, 2024.([Article](https://openreview.net/pdf?id=us2E8tlgZK))<br>
+
+_LCOT: Linear circular optimal transport_<br>
+Martin, R.D., Medri, I., Bai, Y., Liu, X., Yan, K., Rohde, G.K. and Kolouri, S. <br> 
+ICLR, 2024. ([Article](https://openreview.net/pdf?id=49z97Y9lMq))
+
+_NOLA: Compressing LoRA using Linear Combination of Random Basis_<br>
+Koohpayegani, S.A., Navaneet, K.L., Nooralinejad, P., Kolouri, S. and Pirsiavash, H.<br>
+ICLR, 2024. ([Article](https://openreview.net/pdf?id=TjfXcDgvzk))<br>
+
+_SLOSH: Set LOcality Sensitive Hashing via Sliced-Wasserstein Embeddings_<br>
+Lu, Y., Liu, X., Soltoggio, A., Kolouri, S.<br>
+WACV, 2024. ([Article](https://openaccess.thecvf.com/content/WACV2024/papers/Lu_SLoSH_Set_Locality_Sensitive_Hashing_via_Sliced-Wasserstein_Embeddings_WACV_2024_paper.pdf)) <br>
+
+## 2023
+
+_Sliced optimal partial transport_<br>
+Bai, Y., Schmitzer, B., Thorpe, M. and Kolouri, S.<br>
+CVPR, 2023. ([Article](https://openaccess.thecvf.com/content/CVPR2023/html/Bai_Sliced_Optimal_Partial_Transport_CVPR_2023_paper.html)) <br>
+
+_Linear optimal partial transport embedding_<br>
+Bai, Y., Medri, I.V., Martin, R.D., Shahroz, R. and Kolouri, S.<br>
+ICML, 2023. ([Article](https://proceedings.mlr.press/v202/bai23c.html)) <br>
+
+_PRANC: Pseudo random networks for compacting deep models_<br>
+Nooralinejad, P., Abbasi, A., Koohpayegani, S.A., Meibodi, K.P., Khan, R.M.S., Kolouri, S. and Pirsiavash, H.<br>
+ICCV, 2023. ([Article](https://openaccess.thecvf.com/content/ICCV2023/html/Nooralinejad_PRANC_Pseudo_RAndom_Networks_for_Compacting_Deep_Models_ICCV_2023_paper.html)) <br>
+
+_Characterizing out-of-distribution error via optimal transport_<br>
+Lu, Y., Qin, Y., Zhai, R., Shen, A., Chen, K., Wang, Z., Kolouri, S., Stepputtis, S., Campbell, J. and Sycara, K. <br> 
+NeurIPS, 2023. ([Article](https://proceedings.neurips.cc/paper_files/paper/2023/file/38fd51cf36f28566230a93a5fbeaabbf-Paper-Conference.pdf))<br>
+
+_Multi-Agent Lifelong Implicit Neural Learning_<br>
+Kolouri, S., Abbasi, A., Koohpayegani, S.A., Nooralinejad, P. and Pirsiavash, H.<br>
+IEEE Signal Processing Letters, 2023. ([Article](https://ieeexplore.ieee.org/abstract/document/10336374?casa_token=1rED8ybMAHsAAAAA:cGToLxfvPu-JO3tacJo1KtvBkZh1vTkYklrYRlz62vGwJyWFyv_Jd9xaRQkTJODgF1P7XMuT9g)) <br>
+
+_Lifelong Reinforcement Learning with Modulating Masks_<br>
+Ben-Iwhiwhu, E., Nath, S., Pilly, P.K., Kolouri, S. and Soltoggio, A. <br>
+TMLR, 2023. ([Article](https://openreview.net/pdf?id=V7tahqGrOq))
+
+_Sharing lifelong reinforcement learning knowledge via modulating masks_<br>
+Nath, S., Peridis, C., Ben-Iwhiwhu, E., Liu, X., Dora, S., Liu, C., Kolouri, S. and Soltoggio, A. <br>
+CoLLAs, 2023. ([Article](https://proceedings.mlr.press/v232/nath23a.html))
+
+_Is Multi-Task Learning an Upper Bound for Continual Learning?_<br>
+Wu, Z., Tran, H., Pirsiavash, H. and Kolouri, S.<br>
+ICASSP, 2023. ([Article](https://ieeexplore.ieee.org/abstract/document/10095984?casa_token=VYJQCdjG5RUAAAAA:dAoXBkIT6QCtjBpN7YnOYSe0-KErmy8h6zvA-pewB5o9vropTEElZ9P1FYhq-OyPnGoWHn8sAA))
+
+## 2022
+
+_Biological underpinnings for lifelong learning machines_<br>
+Kudithipudi, D., Aguilar-Simon, M., Babb, J., Bazhenov, M., Blackiston, D., Bongard, J., ... & Siegelmann, H.<br>
+Nature Machine Intelligence, 2022. ([Article](https://www.nature.com/articles/s42256-022-00452-0))
+
+_Sparsity and heterogeneous dropout for continual learning in the null space of neural activations_<br>
+Abbasi, A., Nooralinejad, P., Braverman, V., Pirsiavash, H. and Kolouri, S.<br>
+CoLLAs, 2022. ([Article](https://proceedings.mlr.press/v199/abbasi22a))
+
+_Generalized sliced probability metrics_<br>
+Kolouri, S., Nadjahi, K., Shahrampour, S. and Şimşekli, U. <br>
+ICASSP, 2022 (Best Paper Award). ([Article](https://ieeexplore.ieee.org/abstract/document/9746016?casa_token=bjQcH8hSElIAAAAA:XRPxDMSS3CiTtG000zLwkd5ZkgWo6ebaNfhE2-XKiJhSQ5tSlxKt3b1Z9Iv5RREcCjoDKCkM8g))
+
+## 2021
 
 _SLOSH: Set LOcality Sensitive Hashing via Sliced-Wasserstein Embeddings_<br>
 Lu, Y., Liu, X., Soltoggio, A., Kolouri, S.<br>
