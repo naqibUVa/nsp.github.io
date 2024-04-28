@@ -1,7 +1,7 @@
 ---
 name: Ali Abbasi
 position: gradstudent
-avatar: AliAbbasi.jpg
+avatar: AliAbbasi.jpeg
 twitter: ali_abbssii
 ---
 
