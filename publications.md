@@ -15,7 +15,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 Stereographic Spherical Sliced Wasserstein Distances_<br>
 Tran, H., Bai, Y., Kothapalli, A., Shahbazi, A., Liu, X., Martin, R.D. and Kolouri, S.<br>
-ICML, 2024. ([Article](https://openreview.net/pdf?id=vLtVGtEz5h))
+ICML, 2024. ([Article](https://arxiv.org/pdf/2402.02345))
 
 _Statistical Context Detection for Deep Lifelong Reinforcement Learning_<br>
 Dick, J., Nath, S., Peridis, C., Ben-Iwhiwhu, E., Kolouri, S., Soltoggio, A.<br>
