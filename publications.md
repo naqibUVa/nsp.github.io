@@ -13,9 +13,9 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 ## 2024
 
-<!---_Stereographic Spherical Sliced Wasserstein Distances_<br> --->
-<!--- Tran, H., Bai, Y., Kothapalli, A., Shahbazi, A., Liu, X., Martin, R.D. and Kolouri, S.<br> --->
-<!--- ICML, 2024. ([Article](https://openreview.net/pdf?id=vLtVGtEz5h))--->
+Stereographic Spherical Sliced Wasserstein Distances_<br>
+Tran, H., Bai, Y., Kothapalli, A., Shahbazi, A., Liu, X., Martin, R.D. and Kolouri, S.<br>
+ICML, 2024. ([Article](https://openreview.net/pdf?id=vLtVGtEz5h))
 
 _Statistical Context Detection for Deep Lifelong Reinforcement Learning_<br>
 Dick, J., Nath, S., Peridis, C., Ben-Iwhiwhu, E., Kolouri, S., Soltoggio, A.<br>
@@ -30,7 +30,7 @@ Abbasi, A., Nooralinejad, P., Pirsiavash, H. and Kolouri, S. <br>
 CVPR, 2024.([Article](https://openreview.net/pdf?id=us2E8tlgZK))<br>
 
 _LCOT: Linear circular optimal transport_<br>
-Martin, R.D., Medri, I., Bai, Y., Liu, X., Yan, K., Rohde, G.K. and Kolouri, S. <br> 
+Martin, R.D., Medri, I., Bai, Y., Liu, X., Yan, K., Rohde, G.K. and Kolouri, S. <br>
 ICLR, 2024. ([Article](https://openreview.net/pdf?id=49z97Y9lMq))
 
 _NOLA: Compressing LoRA using Linear Combination of Random Basis_<br>
@@ -56,7 +56,7 @@ Nooralinejad, P., Abbasi, A., Koohpayegani, S.A., Meibodi, K.P., Khan, R.M.S., K
 ICCV, 2023. ([Article](https://openaccess.thecvf.com/content/ICCV2023/html/Nooralinejad_PRANC_Pseudo_RAndom_Networks_for_Compacting_Deep_Models_ICCV_2023_paper.html)) <br>
 
 _Characterizing out-of-distribution error via optimal transport_<br>
-Lu, Y., Qin, Y., Zhai, R., Shen, A., Chen, K., Wang, Z., Kolouri, S., Stepputtis, S., Campbell, J. and Sycara, K. <br> 
+Lu, Y., Qin, Y., Zhai, R., Shen, A., Chen, K., Wang, Z., Kolouri, S., Stepputtis, S., Campbell, J. and Sycara, K. <br>
 NeurIPS, 2023. ([Article](https://proceedings.neurips.cc/paper_files/paper/2023/file/38fd51cf36f28566230a93a5fbeaabbf-Paper-Conference.pdf))<br>
 
 _Multi-Agent Lifelong Implicit Neural Learning_<br>
