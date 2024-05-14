@@ -1,13 +1,13 @@
 ---
 name: Zhanqi Zhu
-position: undergrad
+position: alumni
 avatar: ZhanqiZhu.jpeg
 twitter: MintLab
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-_Undergraduate Student_<br>
+_Zhanqi is now a M.Sc. student at University of Southern California<br>
 
 <i class="fa fa-envelope-o"></i> `zhanqi.zhu@vanderbilt.edu`
 

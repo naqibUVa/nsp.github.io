@@ -1,13 +1,13 @@
 ---
 name: Rana Khan
-position: undergrad
+position: alumni
 avatar: RanaKhan.jpg
 twitter: MintLab
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-_Undergraduate Student_<br>
+_Rana is now a Ph.D. student at UNC._<br>
 
 <i class="fa fa-envelope-o"></i> `rana.muhammad.shahroz.khan@vanderbilt.edu`
 
